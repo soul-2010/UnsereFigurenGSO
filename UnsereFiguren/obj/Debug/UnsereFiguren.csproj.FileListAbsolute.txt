@@ -1,0 +1,16 @@
+D:\workspace\schule\AWN_SWM\UnsereFiguren-v4\UnsereFiguren\UnsereFiguren\bin\Debug\UnsereFiguren.exe
+D:\workspace\schule\AWN_SWM\UnsereFiguren-v4\UnsereFiguren\UnsereFiguren\bin\Debug\UnsereFiguren.pdb
+D:\workspace\schule\AWN_SWM\UnsereFiguren-v4\UnsereFiguren\UnsereFiguren\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\schule\AWN_SWM\UnsereFiguren-v4\UnsereFiguren\UnsereFiguren\obj\Debug\UnsereFiguren.Form1.resources
+D:\workspace\schule\AWN_SWM\UnsereFiguren-v4\UnsereFiguren\UnsereFiguren\obj\Debug\UnsereFiguren.Properties.Resources.resources
+D:\workspace\schule\AWN_SWM\UnsereFiguren-v4\UnsereFiguren\UnsereFiguren\obj\Debug\UnsereFiguren.csproj.GenerateResource.Cache
+D:\workspace\schule\AWN_SWM\UnsereFiguren-v4\UnsereFiguren\UnsereFiguren\obj\Debug\UnsereFiguren.exe
+D:\workspace\schule\AWN_SWM\UnsereFiguren-v4\UnsereFiguren\UnsereFiguren\obj\Debug\UnsereFiguren.pdb
+D:\workspace\schule\AWM-SWM\UnsereFiguren-v4\UnsereFiguren\UnsereFiguren\obj\Debug\UnsereFiguren.exe
+D:\workspace\schule\AWM-SWM\UnsereFiguren-v4\UnsereFiguren\UnsereFiguren\obj\Debug\UnsereFiguren.pdb
+D:\workspace\schule\AWM-SWM\UnsereFiguren-v4\UnsereFiguren\UnsereFiguren\bin\Debug\UnsereFiguren.exe
+D:\workspace\schule\AWM-SWM\UnsereFiguren-v4\UnsereFiguren\UnsereFiguren\bin\Debug\UnsereFiguren.pdb
+D:\workspace\schule\AWM-SWM\UnsereFiguren-v4\UnsereFiguren\UnsereFiguren\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\schule\AWM-SWM\UnsereFiguren-v4\UnsereFiguren\UnsereFiguren\obj\Debug\UnsereFiguren.Form1.resources
+D:\workspace\schule\AWM-SWM\UnsereFiguren-v4\UnsereFiguren\UnsereFiguren\obj\Debug\UnsereFiguren.Properties.Resources.resources
+D:\workspace\schule\AWM-SWM\UnsereFiguren-v4\UnsereFiguren\UnsereFiguren\obj\Debug\UnsereFiguren.csproj.GenerateResource.Cache
